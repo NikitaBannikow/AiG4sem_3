@@ -1,0 +1,7 @@
+Madrid;Rome;100;N/A
+Moscow;Rome;20;N/A
+Madrid;Moscow;10;5
+Chicago;Rome;20;N/A
+Moscow;Chicago;10;6
+Moscow;Paris;40;N/A
+Paris;Chicago;20;10
